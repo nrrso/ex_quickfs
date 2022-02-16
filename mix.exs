@@ -3,7 +3,7 @@ defmodule QuickFSPublicAPI.Mixfile do
 
   def project do
     [app: :quick_fs_public_api,
-     version: "1.0.0",
+     version: "0.0.1",
      elixir: "~> 1.6",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
