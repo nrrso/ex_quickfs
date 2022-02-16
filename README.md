@@ -12,7 +12,7 @@ mix do deps.get, compile
 
 ## Installation
 
-The package can be installed by adding `quick_fs_public_api` to your list of dependencies in `mix.exs`:
+The package can be installed by adding [quick_fs_public_api](https://hex.pm/packages/quick_fs_public_api) to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
