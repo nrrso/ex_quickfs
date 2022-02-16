@@ -8,7 +8,8 @@ defmodule QuickFSPublicAPI.Mixfile do
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
      package: package(),
-     description: "# Introduction The QuickFS API allows you to programmatically retrieve financial statement data, key ratios, and company metadata for U.S., Canadian, and Australian stocks.",
+     description: "A wrapper / elixir client / SDK to access the quickfs.net API",
+     source_url: github_link(),
      deps: deps()]
   end
 
@@ -40,8 +41,13 @@ defmodule QuickFSPublicAPI.Mixfile do
     [
       name: "quick_fs_public_api",
       files: ~w(lib mix.exs README* LICENSE*),
-      links: "https://public-api.quickfs.net/v1/api_docs.yaml",
+      links: %{"GitHub" => github_link()},
+      maintainers: ["Norris Sam Osarenkhoe"],
       licenses: ["MIT"]
     ]
+  end
+
+  defp github_link() do
+    "https://github.com/nrrso/ex_quickfs"
   end
 end
