@@ -20,4 +20,4 @@ def deps do
 end
 ```
 
-The docs can be found at [https://hexdocs.pm/quick_fs_public_api/](https://hexdocs.pm/quick_fs_public_api).
+The docs can be found at [https://hexdocs.pm/quick_fs_public_api/](https://hexdocs.pm/quick_fs_public_api/).
