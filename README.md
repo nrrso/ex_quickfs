@@ -17,7 +17,7 @@ by adding `quick_fs_public_api` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
-  [{:quick_fs_public_api, "~> 0.1.0"}]
+  [{:quick_fs_public_api, "~> 0.0.2"}]
 end
 ```
 
