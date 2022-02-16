@@ -3,7 +3,7 @@ defmodule QuickFSPublicAPI.Mixfile do
 
   def project do
     [app: :quick_fs_public_api,
-     version: "0.0.1",
+     version: "0.0.2",
      elixir: "~> 1.6",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
@@ -33,7 +33,8 @@ defmodule QuickFSPublicAPI.Mixfile do
   defp deps do
     [
       {:tesla, "~> 1.2"},
-      {:poison, "~> 3.0"}
+      {:poison, "~> 3.0"},
+      {:ex_doc, ">= 0.0.0", only: :dev, runtime: false}
     ]
   end
 
