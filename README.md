@@ -2,7 +2,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-elixir.svg)](https://forthebadge.com)
 
-![Maintenance](https://github.com/nrrso/ex_quickfs) ![Hex.pm](https://hex.pm/packages/quick_fs_public_api) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fnrrso%2Fex_quickfs)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnrrso%2Fex_quickfs)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![Hex.pm](https://img.shields.io/hexpm/v/quick_fs_public_api)](https://hex.pm/packages/quick_fs_public_api) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fnrrso%2Fex_quickfs)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnrrso%2Fex_quickfs)
 
 This Repository includes the source code for a auto-generated Elixir Client / SDK to call the quickfs.net API.
 
