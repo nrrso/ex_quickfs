@@ -1,5 +1,9 @@
 # QuickFSPublicAPI Elixir Client
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-elixir.svg)](https://forthebadge.com)
+
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fnrrso%2Fex_quickfs)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnrrso%2Fex_quickfs)
+
 This Repository includes the source code for a auto-generated Elixir Client / SDK to call the quickfs.net API.
 
 ### Building
